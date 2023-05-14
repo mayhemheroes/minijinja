@@ -3,5 +3,4 @@ target: add_template
 duration: 300
 
 cmds:
-  - cmd: python3 /minijinja/fuzz/fuzz_targets/add_template.py
-    libfuzzer: true
+  - cmd: /add_template

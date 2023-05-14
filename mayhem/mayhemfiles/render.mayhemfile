@@ -3,5 +3,4 @@ target: render
 duration: 300
 
 cmds:
-  - cmd: python3 /minijinja/fuzz/fuzz_targets/render.py
-    libfuzzer: true
+  - cmd: /render
