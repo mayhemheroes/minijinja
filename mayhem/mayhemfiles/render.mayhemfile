@@ -1,0 +1,6 @@
+project: minijinja
+target: render
+duration: 300
+
+cmds:
+  - cmd: /render

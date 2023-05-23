@@ -1,0 +1,6 @@
+project: minijinja
+target: add_template
+duration: 300
+
+cmds:
+  - cmd: /add_template
